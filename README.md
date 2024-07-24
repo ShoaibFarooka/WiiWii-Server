@@ -40,8 +40,7 @@ This MERN web app offers a seamless platform for users to manage profiles, creat
 - **Database**:
   - MongoDB
 - **Links**:
-  - [GitHub](https://github.com/majidliaaqat)
-  - [Front-end](https://github.com/majidliaaqat/wiiwii-server/)
+  - [GitHub](https://github.com/ShoaibFarooka)
 
 ## 🖼 Visual Overview
 
