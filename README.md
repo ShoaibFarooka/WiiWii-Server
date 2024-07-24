@@ -20,9 +20,8 @@ WiiWii is your go-to platform for buying, selling, and exploring a wide range of
 
 ## 🙋‍♂️ Author Information
 
-- **Name**: Majid Liaqat
-- **Email**: [majidliaaqat@gmail.com](mailto:majidliaaqat@gmail.com)
-- **LinkedIn**: [Majid Liaaqat](https://www.linkedin.com/in/majidliaaqat)
+- **Name**: Shoaib Farooka
+- **Email**: [shoaibfarooka@gmail.com](mailto:shoaibfarooka@gmail.com)
 
 ## 📜 Project Description
 
@@ -78,4 +77,4 @@ This MERN web app offers a seamless platform for users to manage profiles, creat
 
 ## 📌 Project Management
 
-Track our progress, planned features, and development journey on our [Trello Board](https://trello.com/b/nuHI8ar3/wiiwii).
+Track our progress, planned features, and development journey on our [Trello Board]
